@@ -18,6 +18,5 @@
         "url": "git+ssh://git@github.com:coolwust/json-line-stream.git"
     },
     "dependencies": {
-        "slug": ">=0.9.0"
     }
 }
