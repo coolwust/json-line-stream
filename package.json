@@ -5,6 +5,7 @@
     "keywords": ["JSON", "stream", "line"],
     "license": "MIT",
     "homepage": "https://github.com/coolwust/json-line-stream",
+    "main": "index.js",
     "author": {
         "name": "Xianghan Wang",
         "email": "coolwust@gmail.com"
@@ -15,5 +16,8 @@
     "repository": {
         "type": "git",
         "url": "git+ssh://git@github.com:coolwust/json-line-stream.git"
+    },
+    "dependencies": {
+        "slug": ">=0.9.0"
     }
 }
